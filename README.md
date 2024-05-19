@@ -1,3 +1,2 @@
-### Hi there 👋, I'm Nicoli Kazemi and I am a Fullstack Developer
-
-I am currently studying full stack Software Engineering at TripleTen by EdTech. TripleTen is a full stack Software Engineering bootcamp which is ran by EdTech. Skills I have acquired so far include: HTML, CSS, JavaScript, Git, Figma and more. By the time I am done, I will have learned TripleTen's full stack curriculum which includes: HTML5, CSS3, flexbox, grid layout, BEM, Media queries, transition, JavaScript/JSX, DOM, Debugging, Git, Git/Github, Figma, Form validation, OOP, Webpack, NPM, React, React components, React Hooks, Node.js, Express.js, Database, MongoDB, Mongoose, API, Microsoft Azure Cloud, AWS, Google Cloud backend deployment.
+### Hi there 👋, 
+Full-Stack Software Engineer with experience communicating within a team to clarify roles and production goals. Currently work at VestedExchange as a Software Developer. Intentionally think about time so that I may fulfill my responsibilities and focus on what matters most. Able to approach problems from multiple perspectives and consider different solutions. Eager to utilize my unique skills in the EdTech sectors. 
